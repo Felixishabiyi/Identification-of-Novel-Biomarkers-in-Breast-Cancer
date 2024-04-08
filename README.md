@@ -1,4 +1,4 @@
-# Biomarkers-in-Breast-Cancer
+# Identification of Novel Biomarkers-in-Breast-Cancer
 
 Breast Cancer is referred to as the anomalous growth of cells metamorphizing into tumors; Breast Cancer is a common disease that affects women globally. The evolution of cells from their normal state to the cancerous state can be characterized through biological markers. Biomarkers help to identify biochemical parameters that can be used for diagnosis, prognosis, and therapeutic target identification. In this project, we performed the RNA-seq analysis of the breast cancer data set to identify the expressed genes and also the probable biomarkers that are associated with such genes. This information can further help in diagnostic and therapeutic measures.
 
